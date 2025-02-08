@@ -2,7 +2,7 @@
 
 en esta sección veremos nuestro primer ejemplo en python
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uTH0iYouSc?si=HhU-yqe96FQ6Ig3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video en YouTube](https://img.youtube.com/vi/8uTH0iYouSc/0.jpg)](https://www.youtube.com/watch?v=8uTH0iYouSc)
 
 visítame en mi 
 [![Página personal](https://img.shields.io/badge/-pagina_personal-blue)](https://edwinsaul.com)
