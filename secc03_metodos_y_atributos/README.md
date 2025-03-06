@@ -1,6 +1,6 @@
 ## Sección 03 - Métodos y atributos
 
-En esta sección conoceremos los métodos y atrubitos de los de objetos, daremos
+En esta sección conoceremos los métodos y atributos de los de objetos, daremos
 un acercamiento a UML, haciendo algunos scripts simples relativos a los métodos
 y atributos de las clases int, str y float.
 
