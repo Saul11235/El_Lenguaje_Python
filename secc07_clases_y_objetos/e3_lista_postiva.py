@@ -57,6 +57,6 @@ mi_lista[0] = 99  # Asignación directa
 print(mi_lista)  # Salida: [99, 4, 1, 2, 3]
 
 # Esto generará errores:
-# mi_lista.append(-1)
-# mi_lista.extend([1, -2])
+mi_lista.append(-1)
+mi_lista.extend([1, -2])
 # mi_lista[0] = -5
