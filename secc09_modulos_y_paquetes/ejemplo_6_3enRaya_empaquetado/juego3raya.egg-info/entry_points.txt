@@ -1,0 +1,2 @@
+[console_scripts]
+juego3raya = juego3raya.main:lanzar_vs_CPU

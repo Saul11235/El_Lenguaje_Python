@@ -1,0 +1,7 @@
+README.md
+setup.py
+romano/__init__.py
+romano.egg-info/PKG-INFO
+romano.egg-info/SOURCES.txt
+romano.egg-info/dependency_links.txt
+romano.egg-info/top_level.txt

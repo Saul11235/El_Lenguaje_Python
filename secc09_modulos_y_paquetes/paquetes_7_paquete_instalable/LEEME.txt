@@ -1,0 +1,8 @@
+Este es un ejemplo de instalación local de un paquete
+
+pip install direccion/al/paquete
+
+o en caso de esta carpeta
+
+pip install .
+
