@@ -4,6 +4,4 @@ En esta sección conoceremos las estructuras de flujo en python y los objetos bo
 
 [![Video en YouTube](https://img.youtube.com/vi/g61wMulALkU/0.jpg)](https://www.youtube.com/watch?v=g61wMulALkU)
 
-visítame en mi 
-[![Página personal](https://img.shields.io/badge/-pagina_personal-blue)](https://edwinsaul.com)
-
+[![Visítame en mi página personal](https://img.shields.io/badge/-Visítame_en_mi_pagina_personal-black)](https://edwinsaul.com)

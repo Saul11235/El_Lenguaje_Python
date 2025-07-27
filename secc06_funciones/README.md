@@ -4,6 +4,4 @@ En esta sección conoceremos las funciones, decoradores, operadores lambda y pri
 
 [![Video en YouTube](https://img.youtube.com/vi/cpiopMHvrqc/0.jpg)](https://www.youtube.com/watch?v=cpiopMHvrqc)
 
-visítame en mi 
-[![Página personal](https://img.shields.io/badge/-pagina_personal-blue)](https://edwinsaul.com)
-
+[![Visítame en mi página personal](https://img.shields.io/badge/-Visítame_en_mi_pagina_personal-black)](https://edwinsaul.com)
