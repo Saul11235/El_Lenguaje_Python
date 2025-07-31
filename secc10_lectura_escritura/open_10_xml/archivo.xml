@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<root>
+  <hola>
+    <valor>1</valor>
+    <valor>2</valor>
+    <valor>3</valor>
+  </hola>
+  <contenido>
+    <valor>11</valor>
+    <valor>22</valor>
+    <valor>33</valor>
+  </contenido>
+</root>
