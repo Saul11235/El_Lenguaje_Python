@@ -1,0 +1,1 @@
+creado usando 'D:\repositorios\El_Lenguaje_Python\secc10_lectura_escritura\open_05_path_file/archivo_3.txt'

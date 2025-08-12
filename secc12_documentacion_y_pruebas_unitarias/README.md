@@ -1,6 +1,6 @@
-## Sección 12 - Pruebas unitarias
+## Sección 12 - Documentación y pruebas unitarias
 
-En esta sección veremos cómo realizar pruebas unitarias y hacer un mantenimiento sencillo del código.
+En esta sección veremos cómo documentar el código, realizar pruebas unitarias y hacer un mantenimiento sencillo del código.
 
 [![Video en YouTube](https://img.youtube.com/vi/    /0.jpg)](https://www.youtube.com/watch?v=  )
 
