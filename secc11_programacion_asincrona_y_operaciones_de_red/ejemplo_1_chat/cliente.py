@@ -9,5 +9,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     while True:
         mensaje = input("> ")
         if mensaje.lower() == "salir":
+            print('Se ha salido...')
             break
         s.sendall(mensaje.encode())

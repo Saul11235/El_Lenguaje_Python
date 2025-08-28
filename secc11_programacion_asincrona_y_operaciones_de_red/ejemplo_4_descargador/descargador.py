@@ -24,12 +24,8 @@ def descargar_pagina(url, numero):
         print(f"Error al descargar {url}: {e}")
 
 def main():
-    try:
-        with open('urls.txt', 'r') as archivo:
-            urls = [linea.strip() for linea in archivo if linea.strip()]
-    except FileNotFoundError:
-        print("El archivo 'urls.txt' no existe.")
-        return
+    with open('urls.txt', 'r') as archivo:
+        urls = [linea.strip() for linea in archivo if linea.strip()]
 
     hilos = []
     for i, url in enumerate(urls, start=1):

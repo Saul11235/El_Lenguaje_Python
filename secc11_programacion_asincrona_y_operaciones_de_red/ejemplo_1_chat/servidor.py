@@ -25,7 +25,6 @@ def main():
     servidor.bind((HOST, PUERTO))
     servidor.listen()
     print(f"[*] Servidor escuchando en {HOST}:{PUERTO}...")
-
     try:
         while True:
             conn, addr = servidor.accept()
