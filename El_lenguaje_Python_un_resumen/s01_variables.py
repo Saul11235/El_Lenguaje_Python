@@ -2,4 +2,4 @@
 
 numero = 20 
 decimal = 0.5
-string = 'hola soy un str
+string = 'hola soy un str'

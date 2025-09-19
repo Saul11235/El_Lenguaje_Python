@@ -32,16 +32,4 @@ class Repetir:
         Repite un texto tres veces.
         """
         return texto * 3
-    
-
-
-if __name__=='__main__':
-    var  = 5
-    var2 = 10
-    var3 = 15
-    assert doble(var)  == var2
-    assert triple(var) == var3
-    assert Repetir().doble("a")  == 'aa'
-    assert Repetir().triple("b") == 'bbb'
-
-
+   

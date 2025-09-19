@@ -24,8 +24,8 @@ class clase_cilindro:
 # creando cilindro y definiendo atributos
 cilindro = clase_cilindro()
 
-cilindro.altura = 10
-cilindro.radio  = 8
+cilindro.altura = 10.5
+cilindro.radio  = 8.5
 
 # calculando
 cilindro.calcula_area()

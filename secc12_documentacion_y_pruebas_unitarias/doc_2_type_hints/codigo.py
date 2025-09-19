@@ -15,4 +15,4 @@ def funcion(nombre, edad):
 
 
 print('codigo ok')
-
+print(multiplicar(1,2))

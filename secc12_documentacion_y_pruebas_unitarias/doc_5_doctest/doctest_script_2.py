@@ -16,7 +16,7 @@ class Calculadora:
         >>> calc.sumar(5, 5)
         10
         >>> calc.sumar(4, 5)
-        2
+        9
         """
         return a + b  
 # Ejecutar pruebas

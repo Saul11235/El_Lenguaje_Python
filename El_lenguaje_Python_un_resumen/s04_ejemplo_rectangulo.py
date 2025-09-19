@@ -18,3 +18,4 @@ print("base      :",base     )
 print("altura    :",altura   )
 print("perimetro :",perimetro)
 print("area      :",area     )
+
