@@ -1,12 +1,12 @@
-import tkinter as tk
-from time import strftime
+import tkinter 
+from   time    import strftime
 
 # Crear ventana principal
-root = tk.Tk()
+root = tkinter.Tk()
 root.title("Reloj Digital")
 
 # Crear etiqueta para mostrar la hora
-label_hora = tk.Label(root, font=("Helvetica", 48), bg="black", fg="cyan")
+label_hora = tkinter.Label(root, font=("Helvetica", 48), bg="black", fg="cyan")
 label_hora.pack(padx=20, pady=20)
 
 # Función para actualizar la hora

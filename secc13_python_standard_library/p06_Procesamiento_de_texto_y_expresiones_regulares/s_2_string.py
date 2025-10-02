@@ -12,7 +12,7 @@ print("Caracteres imprimibles:", string.printable)
 print()
 
 # 2. Eliminar puntuación de un texto
-texto = "¡Hola! ¿Cómo estás? Bien, gracias :)"
+texto = "Hello! How are you? :)"
 texto_sin_puntuacion = ''.join(c for c in texto if c not in string.punctuation)
 print("Texto sin puntuación:", texto_sin_puntuacion)
 
@@ -21,12 +21,12 @@ from string import Template
 
 plantilla = Template("Hola, $nombre. Hoy es $dia.")
 mensaje = plantilla.substitute(nombre="Ana", dia="viernes")
-print("Mensaje con Template:", mensaje)
+print("\nMensaje con Template:", mensaje)
 
 # 4. Crear una contraseña aleatoria usando letras y dígitos
 import random
 caracteres = string.ascii_letters + string.digits
 password = ''.join(random.choices(caracteres, k=10))
-print("Contraseña generada:", password)
+print("\nContraseña generada:", password)
 
 print("\nFin del script string.")
