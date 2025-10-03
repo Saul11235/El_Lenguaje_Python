@@ -56,4 +56,4 @@ layer.updateExtents()
 # 6. Añadir la capa al proyecto
 QgsProject.instance().addMapLayer(layer)
 
-print("✔ Se han generado 10 rectángulos aleatorios.")
+print(" Se han generado 10 rectángulos aleatorios.")

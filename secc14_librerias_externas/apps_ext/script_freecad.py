@@ -14,8 +14,8 @@ else:
     for obj in doc.Objects:
         doc.removeObject(obj.Name)
 
-# 2. Crear 5 paralelepípedos con dimensiones y posiciones aleatorias
-for i in range(5):
+# 2. Crear 50 paralelepípedos con dimensiones y posiciones aleatorias
+for i in range(50):
     # Dimensiones aleatorias entre 5 y 50 mm
     width = random.uniform(5, 50)
     height = random.uniform(5, 50)
@@ -40,4 +40,4 @@ doc.recompute()
 Gui.SendMsgToActiveView("ViewFit")
 Gui.activeDocument().activeView().viewAxometric()
 
-print(" Se han creado 5 paralelepípedos aleatorios.")
+print(" Se han creado 50 paralelepípedos aleatorios.")

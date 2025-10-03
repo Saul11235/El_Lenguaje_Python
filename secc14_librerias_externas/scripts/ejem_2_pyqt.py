@@ -1,3 +1,10 @@
+#
+# ejemplo pyqt
+#
+#  pip instal PyQt5
+#
+
+
 
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLineEdit, QPushButton, QLabel

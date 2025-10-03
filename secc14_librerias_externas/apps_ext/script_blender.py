@@ -38,3 +38,4 @@ for i in range(cantidad_cubos):
     cubo.scale = (width / 2, depth / 2, height / 2)
     
     print(f"{cubo.name} → Dimensiones: {width:.2f}, {depth:.2f}, {height:.2f} | Posición: {x:.2f}, {y:.2f}, {z:.2f}")
+

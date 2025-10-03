@@ -1,4 +1,9 @@
-
+#
+#  ejemplo wxpython
+#
+#  pip install wxpython
+#
+ 
 import wx
 
 class SumaApp(wx.Frame):

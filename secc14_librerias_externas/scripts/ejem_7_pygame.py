@@ -1,3 +1,8 @@
+
+#
+# ejemplo mover un recuadro
+#
+
 import pygame
 import sys
 
